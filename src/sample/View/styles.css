@@ -1,0 +1,10 @@
+*{
+
+    -fx-border-color: transparent;
+    -fx-background-radius: 0px, 0px, 0px, 0px;
+
+}
+#t1,#t2{
+    -fx-font-size:40px;
+
+}
